@@ -1,0 +1,31 @@
+body {
+  background-color: #ddf3f5;
+
+     }
+
+ hr {
+  border-style: dotted none none;
+  border-width: 5px;
+
+  border-color: grey;
+  width:5%;
+
+
+  }
+  h3{
+
+    color:#2ec1ac;
+    font-style: italic;
+    }
+
+  h1{
+    color:#3e978b;
+    font-style: italic;
+  }
+  img{
+    height:300px;
+    /*To round the Picture*/
+    border-radius: 50%;
+
+
+  }
